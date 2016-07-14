@@ -1,7 +1,7 @@
 
 .my_image {
-  height: 500px;
-  Width: 750px;
+  height: 300px;
+  Width: 500px;
 }
 h1 {
   color: #FFA500;
@@ -19,4 +19,21 @@ a:hover {
 }
 .title {
   font-size: 75px;
+}
+#mydiv {
+  background-color: #993300;
+  width: 750px;
+  border:50px;
+  padding: 50px;
+  margin: 50px;
+}
+#mypara {
+  background-color: #ffffcc;
+  width: 1000px;
+  border:100px;
+  padding: 100px;
+  margin:100px;
+}
+#title {
+  position: fixed;
 }
